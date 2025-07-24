@@ -83,7 +83,7 @@ Recreate the layout and functionality of the Canvas LMS UI using **React.js** an
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/ANUJNEGI15072005/canvas-ui-clone.git
+git clone https://github.com/ANUJNEGI15072005/Canvas-UI-clone.git
 cd canvas-ui-clone
 npm install
 npm run dev
