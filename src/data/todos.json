@@ -1,0 +1,5 @@
+[
+  { "id": 1, "task": "Submit React Project", "due": "Jul 27", "done": false },
+  { "id": 2, "task": "Prepare Presentation", "due": "Jul 28", "done": false },
+  { "id": 3, "task": "Team Meeting", "due": "Jul 23", "done": true }
+]

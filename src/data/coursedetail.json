@@ -1,0 +1,140 @@
+[
+    {
+        "id": "React_for_Beginners",
+        "title": "React for Beginners",
+        "overview": "This course introduces beginners to the fundamentals of React, a powerful JavaScript library for building user interfaces. You'll learn how to create reusable components, manage state, and interact with APIs. Through hands-on projects and examples, you’ll build dynamic web applications and gain practical knowledge of JSX, props, hooks, and the component lifecycle.",
+        "grade": {
+            "marks": "A-",
+            "description": "Great grasp on core concepts and component design. Needs slight improvement in managing state complexity."
+        },
+        "assignments": [
+            {
+                "name": "Component Basics",
+                "points": 20,
+                "dueDate": "Jul 30",
+                "submissionStatus": "Submitted"
+            },
+            {
+                "name": "State and Props Project",
+                "points": 30,
+                "dueDate": "Aug 7",
+                "submissionStatus": "Pending"
+            }
+        ]
+    },
+    {
+        "id": "Advanced_JavaScript",
+        "title": "Advanced JavaScript",
+        "overview": "Delve deeper into JavaScript with this advanced course. You’ll explore topics like closures, prototypal inheritance, asynchronous programming, and the event loop. Perfect for developers looking to master the language and improve performance, code structure, and debugging skills in modern JavaScript applications.",
+        "grade": {
+            "marks": "B+",
+            "description": "Strong understanding of JavaScript fundamentals. Could use more practice with advanced asynchronous concepts."
+        },
+        "assignments": [
+            {
+                "name": "Async/Await Exercises",
+                "points": 25,
+                "dueDate": "Jul 28",
+                "submissionStatus": "Submitted"
+            },
+            {
+                "name": "Closure & Scope Challenge",
+                "points": 30,
+                "dueDate": "Aug 14",
+                "submissionStatus": "Pending"
+            }
+        ]
+    },
+    {
+        "id": "UI/UX_Design_Fundamentals",
+        "title": "UI/UX Design Fundamentals",
+        "overview": "Learn the principles of user interface and user experience design. This course covers visual hierarchy, usability, color theory, wireframing, prototyping, and user research. With real-world design tools and case studies, you’ll understand how to create intuitive and visually pleasing interfaces.",
+        "grade": {
+            "marks": "A",
+            "description": "Exceptional visual design and user experience insights. Demonstrated solid prototyping and user testing work."
+        },
+        "assignments": [
+            {
+                "name": "Low-Fidelity Wireframe",
+                "points": 15,
+                "dueDate": "Aug 19",
+                "submissionStatus": "Submitted"
+            },
+            {
+                "name": "User Research Report",
+                "points": 25,
+                "dueDate": "Sep 3",
+                "submissionStatus": "Pending"
+            }
+        ]
+    },
+    {
+        "id": "Backend_with_Node.js",
+        "title": "Backend with Node.js",
+        "overview": "Master backend development using Node.js. This course walks you through building RESTful APIs, working with Express.js, MongoDB integration, middleware, authentication, and deploying backend services. It’s ideal for those wanting to handle data and business logic behind the scenes.",
+        "grade": {
+            "marks": "B",
+            "description": "Basic API building is solid. Need to reinforce understanding of middleware and authentication flows."
+        },
+        "assignments": [
+            {
+                "name": "Express API Build",
+                "points": 20,
+                "dueDate": "Jul 29",
+                "submissionStatus": "Submitted"
+            },
+            {
+                "name": "JWT Auth Implementation",
+                "points": 30,
+                "dueDate": "Oct 1",
+                "submissionStatus": "Pending"
+            }
+        ]
+    },
+    {
+        "id": "Fullstack_Development",
+        "title": "Fullstack Development",
+        "overview": "This course combines frontend and backend skills to create full-fledged web applications. You’ll build applications using MERN stack (MongoDB, Express, React, Node), manage routing, handle user authentication, and deploy apps on cloud platforms. Real-world projects guide your learning path.",
+        "grade": {
+            "marks": "A+",
+            "description": "Outstanding performance across fullstack modules. Projects showed depth in both frontend and backend design."
+        },
+        "assignments": [
+            {
+                "name": "MERN Blog Project",
+                "points": 40,
+                "dueDate": "Aug 25",
+                "submissionStatus": "Submitted"
+            },
+            {
+                "name": "Deployment with CI/CD",
+                "points": 35,
+                "dueDate": "Oct 10",
+                "submissionStatus": "Pending"
+            }
+        ]
+    },
+    {
+        "id": "Python_for_Data_Science",
+        "title": "Python for Data Science",
+        "overview": "Learn Python with a focus on data analysis, data visualization, and machine learning. You’ll work with libraries like NumPy, Pandas, Matplotlib, and Scikit-learn. This course prepares you for data-driven problem-solving with real-world datasets and hands-on exercises.",
+        "grade": {
+            "marks": "A",
+            "description": "Excellent command of data analysis workflows. Needs to deepen ML model evaluation and tuning techniques."
+        },
+        "assignments": [
+            {
+                "name": "Data Cleaning with Pandas",
+                "points": 20,
+                "dueDate": "Sep 2",
+                "submissionStatus": "Submitted"
+            },
+            {
+                "name": "ML Model Building",
+                "points": 30,
+                "dueDate": "Nov 3",
+                "submissionStatus": "Pending"
+            }
+        ]
+    }
+]

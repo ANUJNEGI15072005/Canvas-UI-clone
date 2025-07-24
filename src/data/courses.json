@@ -1,0 +1,8 @@
+[
+  { "id": "React_for_Beginners", "title": "React for Beginners", "instructor": "John Doe", "progress": 80 },
+  { "id": "Advanced_JavaScript", "title": "Advanced JavaScript", "instructor": "Jane Smith", "progress": 45 },
+  { "id": "UI/UX_Design_Fundamentals", "title": "UI/UX Design Fundamentals", "instructor": "Alice Johnson", "progress": 60 },
+  { "id": "Backend_with_Node.js", "title": "Backend with Node.js", "instructor": "Michael Lee", "progress": 30 },
+  { "id": "Fullstack_Development", "title": "Fullstack Development", "instructor": "Sara Wilson", "progress": 95 },
+  { "id": "Python_for_Data_Science", "title": "Python for Data Science", "instructor": "David Kim", "progress": 70 }
+]
